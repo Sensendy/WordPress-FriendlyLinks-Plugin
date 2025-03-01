@@ -1,1 +1,0 @@
-# WordPress-FriendlyLinks-Plugin
